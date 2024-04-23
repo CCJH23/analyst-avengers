@@ -18,16 +18,17 @@ This web application is powered by a data pipeline ingesting, transforming and l
 
 #### High-level View
 
-<img src="HighLevel.png">
+<img src="HighLevel2.png">
 
 #### Mid-level View
 
-<img src="MidLevel.png">
+<img src="MidLevel2.png">
 <img src="TopologyMapping.png">
 
 #### Low-level View
 
 <img src="LowLevel.png">
+<img src="LowLevel2.png">
 
 ## Architecture Diagram
 
