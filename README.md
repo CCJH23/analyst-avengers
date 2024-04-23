@@ -1,4 +1,4 @@
-# Data Engineering with a Full-Stack App Project
+# Data Engineering and Full-Stack Web App Project
 
 NOTE: there is no code because the code belongs to the client now.
 
