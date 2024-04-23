@@ -14,25 +14,25 @@ The web application provides 3 layers of information - 1) high-level, 2) mid-lev
 
 This web application is powered by a data pipeline, which ingests, transforms and loads data every 5 seconds from the monitoring tools.
 
-### Pictures
+## Architecture Diagram
 
-#### High-level View
+<img src="ArchitectureDiagram.png">
+
+## Pictures
+
+### High-level View
 
 <img src="HighLevel2.jpg">
 
-#### Mid-level View
+### Mid-level View
 
 <img src="MidLevel2.jpg">
 <img src="TopologyMapping.png">
 
-#### Low-level View
+### Low-level View
 
 <img src="LowLevel.png">
 <img src="LowLevel2.jpg">
-
-## Architecture Diagram
-
-<img src="ArchitectureDiagram.png">
 
 ## Tech Stack
 
