@@ -1,8 +1,10 @@
 # Data Engineering with a Full-Stack App Project
 
+NOTE: there is no code because the code belongs to the client now.
+
 ## Introduction
 
-Created a web application to help UBS easily check the health status of services and their underlying infrastructure (servers, applications, databases).
+Created a web application to help client easily check the health status of services and their underlying infrastructure (servers, applications, databases).
 
 The web application provides 3 layers of information -
 high-level, mid-level and low-level.
