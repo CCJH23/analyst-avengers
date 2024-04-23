@@ -4,16 +4,30 @@ NOTE: there is no code because the code belongs to the client now.
 
 ## Introduction
 
-Created a web application to help client easily check the health status of services and their underlying infrastructure (servers, applications, databases).
+Created a web application to help the client easily check the health status of their services and the underlying infrastructure (servers, applications, databases) of each service.
 
-The web application provides 3 layers of information -
-high-level, mid-level and low-level.
+The web application provides 3 layers of information - 1) high-level, 2) mid-level and 3) low-level.
 
 - High-level displays the health status of services.
 - Mid-level displays the network of all infrastructure powering that service and a geographical map of where they are located.
 - Low-level displays the problem logs of the infrastructure (if it experiences any error) and metric logs.
 
 This web application is powered by a data pipeline ingesting, transforming and loading data every 5 seconds from the monitoring tools.
+
+### Pictures
+
+#### High-level View
+
+<img src="HighLevel.png">
+
+#### Mid-level View
+
+<img src="MidLevel.png">
+<img src="TopologyMapping.png">
+
+#### Low-level View
+
+<img src="LowLevel.png">
 
 ## Architecture Diagram
 
