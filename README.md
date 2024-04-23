@@ -12,7 +12,7 @@ The web application provides 3 layers of information - 1) high-level, 2) mid-lev
 - Mid-level displays the network of all infrastructure powering that service and a geographical map of where they are located.
 - Low-level displays the problem logs of the infrastructure (if it experiences any error) and metric logs.
 
-This web application is powered by a data pipeline ingesting, transforming and loading data every 5 seconds from the monitoring tools.
+This web application is powered by a data pipeline, which ingests, transforms and loads data every 5 seconds from the monitoring tools.
 
 ### Pictures
 
